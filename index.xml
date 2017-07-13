@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hallway App on Know Your Team</title>
-    <link>http://hallwayapp.com/post/2017/07/12/sign-up/</link>
+    <link>http://hallwayapp.com/</link>
     <description>Recent content in Hallway App on Know Your Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2017. Hallway App</copyright>
     <lastBuildDate>Wed, 12 Jul 2017 14:49:38 -0500</lastBuildDate>
     
-	<atom:link href="https://corinnpope.github.io/hallway/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hallwayapp.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

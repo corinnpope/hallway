@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Know Your Team</title>
-    <link>https://corinnpope.github.io/hallway/categories/</link>
+    <link>http://hallwayapp.com/categories/</link>
     <description>Recent content in Categories on Know Your Team</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2017. Hallway App</copyright>
     
-	<atom:link href="https://corinnpope.github.io/hallway/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hallwayapp.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
