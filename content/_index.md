@@ -12,7 +12,7 @@ Keywords: "team management software, communication software for teams"
 [<img src="http://i.imgur.com/YZYAZTr.png" style="max-width:15%;min-width:40px;float:right;" alt="Hallway Logo" />](#)
 
 # What is Hallway?
-Hallway helps you know your team. [Request a beta invite here.](/sign-up)
+Hallway helps you know your team. [Request a beta invite here.](http://eepurl.com/cUSRq5)
 
 ### Three questions:
 - Do all members of your team know who everyone is, what they do, and what they're like? 
@@ -74,4 +74,4 @@ We're offering special locked-in pricing of $2/user/month for teams on our beta 
 Hallway is still in development, but will be ready soon. Sign up below for early access when we're ready.
 
 Sign up here: 
-[request a beta invite](/sign-up)
+[request a beta invite](http://eepurl.com/cUSRq5)

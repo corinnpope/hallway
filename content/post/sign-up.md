@@ -11,5 +11,5 @@ Our development team is still chugging away at completing the app. In the meanti
 - Lock in your rate. It won't go up on you. For forever.
 - Be entered in our drawing to win a free lifetime subscription.
 
-[request a beta invite](/sign-up)
+[request a beta invite](http://eepurl.com/cUSRq5)
 

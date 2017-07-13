@@ -15,21 +15,10 @@ footnotereturnlinkcontents = "↩"
     name = "Home"
     url = "/"
     weight = 1
+
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+    name = "Sign Up for the Beta"
+    url = "/sign-up"
 
 [params]
     description = "Hallway Helps You Know Your Team"
