@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hallway App on Know Your Team</title>
+    <link>https://corinnpope.github.io/hallway/</link>
+    <description>Recent content in Hallway App on Know Your Team</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017. Hallway App</copyright>
+    <lastBuildDate>Wed, 12 Jul 2017 14:49:38 -0500</lastBuildDate>
+    
+	<atom:link href="https://corinnpope.github.io/hallway/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sign Up</title>
+      <link>https://corinnpope.github.io/hallway/post/2017/07/12/sign-up/</link>
+      <pubDate>Wed, 12 Jul 2017 14:49:38 -0500</pubDate>
+      
+      <guid>https://corinnpope.github.io/hallway/post/2017/07/12/sign-up/</guid>
+      <description>What is Hallway? Our development team is still chugging away at completing the app. In the meantime, we&amp;rsquo;re selecting beta users that would get the most out of the platform. As a beta user, you&amp;rsquo;ll have the following benefits:
+ Have a say in the development of Hallway. Get your opinion out there and be heard. Lock in your rate. It won&amp;rsquo;t go up on you. For forever. Be entered in our drawing to win a free lifetime subscription.</description>
+    </item>
+    
+  </channel>
+</rss>
