@@ -1,0 +1,36 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Know Your Team"
+GoogleAnalytics = "UA-101851770-1"
+Copyright = "2017. Hallway App"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+    note = "/note/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
+[params]
+    description = "Hallway Helps You Know Your Team"
+    footer = "&copy; 2017 Hallway App | [The Book of Faces](https://www.facebook.com/Hallway-1544061365669180/)"
