@@ -14,20 +14,20 @@
     
     <item>
       <title>Sign Up</title>
-      <link>http://hallwayapp.com/post/2017/07/12/sign-up/</link>
+      <link>http://hallwayapp.com/sign-up/</link>
       <pubDate>Wed, 12 Jul 2017 14:49:38 -0500</pubDate>
       
-      <guid>http://hallwayapp.com/post/2017/07/12/sign-up/</guid>
+      <guid>http://hallwayapp.com/sign-up/</guid>
       <description>What is Hallway? Our development team is still chugging away at completing the app. In the meantime, we&amp;rsquo;re selecting beta users that would get the most out of the platform. As a beta user, you&amp;rsquo;ll have the following benefits:
  Have a say in the development of Hallway. Get your opinion out there and be heard. Lock in your rate. It won&amp;rsquo;t go up on you. For forever. Be entered in our drawing to win a free lifetime subscription.</description>
     </item>
     
     <item>
       <title>Survey</title>
-      <link>http://hallwayapp.com/post/2017/07/12/survey/</link>
+      <link>http://hallwayapp.com/survey/</link>
       <pubDate>Wed, 12 Jul 2017 14:49:38 -0500</pubDate>
       
-      <guid>http://hallwayapp.com/post/2017/07/12/survey/</guid>
+      <guid>http://hallwayapp.com/survey/</guid>
       <description>  (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id=&#34;typef_orm&#34;, b=&#34;https://embed.typeform.com/&#34;; if(!gi.call(d,id)) { js=ce.call(d,&#34;script&#34;); js.id=id; js.src=b+&#34;embed.js&#34;; q=gt.call(d,&#34;script&#34;)[0]; q.parentNode.insertBefore(js,q) } })()  powered by Typeform  </description>
     </item>
     
