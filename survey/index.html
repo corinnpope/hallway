@@ -16,6 +16,15 @@
   ga('send', 'pageview');
 
 </script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBDF5K9');</script>
+
+
   </head>
 
   <body>
@@ -43,6 +52,12 @@ ga('create', 'UA-101851770-1', 'auto');
 ga('send', 'pageview');
 </script>
 
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBDF5K9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
 <div class="article-meta">
 <h1><span class="title">Survey</span></h1>
 
@@ -52,6 +67,12 @@ ga('send', 'pageview');
 <div class="typeform-widget" data-url="https://ersaass.typeform.com/to/p8DaoX" style="width: 100%; height: 500px;" > </div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;" > powered by <a href="https://www.typeform.com/examples/surveys/?utm_campaign=p8DaoX&amp;utm_source=typeform.com-8258089-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-onlinesurvey&amp;utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
 
 </main>
+
+<script>
+var vimeoGAJS=window.vimeoGAJS?window.vimeoGAJS:{};!function(e){vimeoGAJS={iframes:[],gaTracker:void 0,eventMarker:{},init:function(){vimeoGAJS.iframes=e("iframe"),e.each(vimeoGAJS.iframes,function(t,o){var a=e(o).attr("id");vimeoGAJS.eventMarker[a]={progress25:!1,progress50:!1,progress75:!1,videoPlayed:!1,videoPaused:!1,videoResumed:!1,videoSeeking:!1,videoCompleted:!1,timePercentComplete:0}}),"function"==typeof ga&&(vimeoGAJS.gaTracker="ua"),"undefined"!=typeof _gaq&&"function"==typeof _gaq.push&&(vimeoGAJS.gaTracker="ga"),"undefined"!=typeof dataLayer&&"function"==typeof dataLayer.push&&(vimeoGAJS.gaTracker="gtm"),window.addEventListener?window.addEventListener("message",vimeoGAJS.onMessageReceived,!1):window.attachEvent("onmessage",vimeoGAJS.onMessageReceived,!1)},onMessageReceived:function(t){if("http://player.vimeo.com"===t.origin.replace("https:","http:")&&"undefined"!=typeof vimeoGAJS.gaTracker){var o=JSON.parse(t.data),a=e("#"+o.player_id),i=a.attr("id");switch(o.event){case"ready":vimeoGAJS.onReady();break;case"playProgress":vimeoGAJS.onPlayProgress(o.data,a);break;case"seek":a.data("seek")&&!vimeoGAJS.eventMarker[i].videoSeeking&&(vimeoGAJS.sendEvent(a,"Skipped video forward or backward"),vimeoGAJS.eventMarker[i].videoSeeking=!0);break;case"play":vimeoGAJS.eventMarker[i].videoPlayed?!vimeoGAJS.eventMarker[i].videoResumed&&vimeoGAJS.eventMarker[i].videoPaused&&(vimeoGAJS.sendEvent(a,"Resumed video"),vimeoGAJS.eventMarker[i].videoResumed=!0):(vimeoGAJS.sendEvent(a,"Started video"),vimeoGAJS.eventMarker[i].videoPlayed=!0);break;case"pause":vimeoGAJS.onPause(a);break;case"finish":vimeoGAJS.eventMarker[i].videoCompleted||(vimeoGAJS.sendEvent(a,"Completed video"),vimeoGAJS.eventMarker[i].videoCompleted=!0)}}},getLabel:function(e){var t=e.attr("src").split("?")[0],o=t;return e.data("title")?o+=" ("+e.data("title")+")":e.attr("title")&&(o+=" ("+e.attr("title")+")"),o},post:function(t,o,a){var i={method:t};o&&(i.value=o);var r=e(a).attr("src").split("?")[0];a.contentWindow.postMessage(JSON.stringify(i),r)},onReady:function(){e.each(vimeoGAJS.iframes,function(e,t){vimeoGAJS.post("addEventListener","play",t),vimeoGAJS.post("addEventListener","seek",t),vimeoGAJS.post("addEventListener","pause",t),vimeoGAJS.post("addEventListener","finish",t),vimeoGAJS.post("addEventListener","playProgress",t)})},onPause:function(e){var t=e.attr("id");vimeoGAJS.eventMarker[t].timePercentComplete<99&&!vimeoGAJS.eventMarker[t].videoPaused&&(vimeoGAJS.sendEvent(e,"Paused video"),vimeoGAJS.eventMarker[t].videoPaused=!0)},onPlayProgress:function(e,t){var o,a=t.attr("id");vimeoGAJS.eventMarker[a].timePercentComplete=Math.round(100*e.percent),t.data("progress")&&(vimeoGAJS.eventMarker[a].timePercentComplete>24&&!vimeoGAJS.eventMarker[a].progress25&&(o="Played video: 25%",vimeoGAJS.eventMarker[a].progress25=!0),vimeoGAJS.eventMarker[a].timePercentComplete>49&&!vimeoGAJS.eventMarker[a].progress50&&(o="Played video: 50%",vimeoGAJS.eventMarker[a].progress50=!0),vimeoGAJS.eventMarker[a].timePercentComplete>74&&!vimeoGAJS.eventMarker[a].progress75&&(o="Played video: 75%",vimeoGAJS.eventMarker[a].progress75=!0),o&&vimeoGAJS.sendEvent(t,o))},sendEvent:function(e,t){var o=e.data("bounce"),a=vimeoGAJS.getLabel(e);switch(vimeoGAJS.gaTracker){case"gtm":dataLayer.push({event:"Vimeo",eventCategory:"Vimeo",eventAction:t,eventLabel:a,eventValue:void 0,eventNonInteraction:o?!1:!0});break;case"ua":ga("send","event","Vimeo",t,a,void 0,{nonInteraction:o?0:1});break;case"ga":_gaq.push(["_trackEvent","Vimeo",t,a,void 0,o?!1:!0])}}},vimeoGAJS.init()}(jQuery);
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script src="path/to/vimeo.ga.min.js"></script>
 
   <footer>
   
